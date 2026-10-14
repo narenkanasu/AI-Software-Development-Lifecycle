@@ -1,2 +1,2 @@
-# Software-Development-Lifecycle---AI
+# AI SDLC
 SDLC with AI
